@@ -1,2 +1,3 @@
 # Product_Purchase
-E-commerce Product Purchase System (PHP, MySQL, Bootstrap) Ky është një sistem për blerjen e produkteve online i realizuar me përdorimin e PHP, MySQL, dhe Bootstrap. Projektin mund ta përdorni si një bazë për krijimin e një dyqani online që ofron mundësinë për të shfletuar produkte,dhe për të përfunduar procesin e blerjes.
+E-commerce Product Purchase System (PHP, MySQL, Bootstrap) 
+This is an online product purchasing system built using PHP, MySQL, and Bootstrap. You can use the project as a basis for creating an online store that offers the possibility to browse products and complete the purchase process.
